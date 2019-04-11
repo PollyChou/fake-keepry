@@ -9,7 +9,7 @@
       "fee": 30,
       "people_count": 3,
       "expire": 1554993330,
-      "pay_expire": 1
+      "pay_expire": 3600000
     }
   ]
 }
